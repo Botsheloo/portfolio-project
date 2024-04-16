@@ -1,6 +1,4 @@
-body{
-    background-color: blanchedalmond;
-}
+
 h1{
     font-weight: bold;
     text-align: center;
@@ -8,5 +6,9 @@ h1{
 }
 p{
     text-align: center;
+    font-weight: normal;
     font-family: "Poppins", serif;
+}
+i{
+    text-align: center;
 }
