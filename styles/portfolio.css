@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+p{
+    text-align: center;
+    font-family: "Poppins", serif;
+}
