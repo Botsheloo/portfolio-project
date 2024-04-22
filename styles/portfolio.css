@@ -17,6 +17,13 @@ h1{
     font-size: 96px;
     line-height: 1.5;
 }
+.about-section {
+    padding: 160px 20px;
+}
+.about-section h1{
+    font-size: 64px;
+    line-height: 85.31px;
+}
 p{
     font-weight: normal;
     font-size: 16px;
@@ -37,11 +44,21 @@ h2{
     font-weight: bold;
     color: #272142;
 }
+.about-section p{
+    color: #272142;
+}
 .hero h2{
     line-height: 2;
     font-size: 24px;
     font-weight: normal;
     font-family: var(--default-font-family);
+}
+.about-section h2{
+    font-size: 18px;
+    font-family: var(--default-font-family);
+}
+.about-section-content{
+    margin: 30px;
 }
 .btn-branding{
     color: white;
@@ -72,5 +89,13 @@ h2{
         padding: 0;
         text-align: center;
     }
+    .about-section{
+        text-align: center;
+        padding: 10px;
+    }
     
+}
+#mypicture{
+    border-radius: 10px;
+    width: 550px;
 }
